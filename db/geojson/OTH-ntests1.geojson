@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1001,
+        "series": "Pokhran I",
+        "shot": "Pokhran I",
+        "date": "18.MAY.1974",
+        "year": 1974,
+        "time": "02:34:55.0",
+        "site": "Pokoran, India",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 12, max: 15.0",
+        "crater": 95.0,
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.752,
+          27.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1002,
+        "series": "Shakti-98",
+        "shot": "Shakti I",
+        "date": "11.MAY.1998",
+        "year": 1998,
+        "time": "10:13:41.8",
+        "site": "Pokoran, India",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 40, max: 46.0",
+        "crater": 80.0,
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7612,
+          27.0716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1003,
+        "series": "Shakti-98",
+        "shot": "Shakti II",
+        "date": "11.MAY.1998",
+        "year": 1998,
+        "time": "10:13:41.8",
+        "site": "Pokoran, India",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.761,
+          27.072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1004,
+        "series": "Shakti-98",
+        "shot": "Shakti III",
+        "date": "11.MAY.1998",
+        "year": 1998,
+        "time": "10:13:41.8",
+        "site": "Pokoran, India",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.761,
+          27.072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1005,
+        "series": "Shakti-98",
+        "shot": "Shakti IV",
+        "date": "13.MAY.1998",
+        "year": 1998,
+        "time": "06:51",
+        "site": "Pokoran, India",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0,5, max: Unknown",
+        "crater": 4.0,
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8,
+          27.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1006,
+        "series": "Shakti-98",
+        "shot": "Shakti V",
+        "date": "13.MAY.1998",
+        "year": 1998,
+        "time": "06:51",
+        "site": "Pokoran, India",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8,
+          27.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2001,
+        "series": "Chagai",
+        "shot": "Chagai-I",
+        "date": "28.MAY.1998",
+        "year": 1998,
+        "time": "10:16:15.2",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 30, max: 35.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9475,
+          28.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2002,
+        "series": "Chagai",
+        "shot": "Chagai-I",
+        "date": "28.MAY.1998",
+        "year": 1998,
+        "time": "10:16:15.2",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9475,
+          28.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2003,
+        "series": "Chagai",
+        "shot": "Chagai-I",
+        "date": "28.MAY.1998",
+        "year": 1998,
+        "time": "10:16:15.2",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9475,
+          28.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2004,
+        "series": "Chagai",
+        "shot": "Chagai-I",
+        "date": "28.MAY.1998",
+        "year": 1998,
+        "time": "10:16:15.2",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9475,
+          28.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2005,
+        "series": "Chagai",
+        "shot": "Chagai-I",
+        "date": "28.MAY.1998",
+        "year": 1998,
+        "time": "10:16:15.2",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9475,
+          28.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2006,
+        "series": "Chagai",
+        "shot": "Chagai-II",
+        "date": "30.MAY.1998",
+        "year": 1998,
+        "time": "06:54:54.9",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 15, max: 18.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.73,
+          28.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2007,
+        "series": "Chagai",
+        "shot": "Chagai-II",
+        "date": "30.MAY.1998",
+        "year": 1998,
+        "time": "06:54:54.9",
+        "site": "Chagai Hills, Pakistan",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.73,
+          28.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "22.SEP.1979",
+        "year": 1979,
+        "time": "00:53",
+        "site": "South Atlantic Ocean",
+        "type": "atmospheric",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "Unknown (Republic of South Africa?)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.57,
+          -46.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4001,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "9.OCT.2006",
+        "year": 2006,
+        "time": "01:35:27",
+        "site": "",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0,2, max: 4.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09,
+          41.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4002,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "25.MAY.2009",
+        "year": 2009,
+        "time": "00:54:43",
+        "site": "",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.029,
+          41.306
+        ]
+      }
+    }
+  ]
+}

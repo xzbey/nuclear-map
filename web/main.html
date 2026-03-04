@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Nuclear map</title>
+
+        <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+        <link href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" rel="stylesheet"/>
+        <!--<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>-->
+
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <div class="filters">
+            <select id="country-filter">
+                <option value="All">All</option>
+                <option value="USA">USA</option>
+                <option value="USSR">USSR</option>
+                <option value="UK">UK</option>
+                <option value="FR">France</option>
+                <option value="PRC">China</option>
+                <option value="India">India</option>
+                <option value="Pakistan">Pakistan</option>
+                <option value="North Korea">North Korea</option>
+                <option value="Unknown (Republic of South Africa?)">Unknown (Republic of South Africa?)</option>
+            </select>
+
+            <div class="year-filter">
+                <label>Year: <span id="yearValue">2009</span></label>
+                <input type="range" id="yearSlider" min="1944" max="2009" value="2009">
+            </div>
+        </div>
+
+        <div id="map"></div>
+
+        <script src="scripts.js"></script>
+        <script>createMap();
+                placeMarkers();</script>
+    </body>
+</html>

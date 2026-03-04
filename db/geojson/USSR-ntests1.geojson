@@ -1,0 +1,6161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "series": "1949",
+        "shot": "1 Pervaya Molniya (Joe 1)",
+        "date": "29.AUG.1949",
+        "year": 1949,
+        "time": "00:00",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric, surface, tower",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 22, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-1",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.82,
+          50.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "series": "1950",
+        "shot": "X",
+        "date": "Unknown.Unknown.1950",
+        "year": 1950,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-1",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "series": "1951",
+        "shot": "2 Vtoraya Molniya (Joe 2)",
+        "date": "24.SEP.1951",
+        "year": 1951,
+        "time": "06:19",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 38, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-2",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "series": "1951",
+        "shot": "3 (Joe 3)",
+        "date": "18.OCT.1951",
+        "year": 1951,
+        "time": "03:53",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 42, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-3",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "series": "1953",
+        "shot": "4 (Joe 4)",
+        "date": "12.AUG.1953",
+        "year": 1953,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 400, max: Unknown",
+        "crater": "C",
+        "warhead": "RDS-6s",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "series": "1953",
+        "shot": "5 (Joe 5)",
+        "date": "23.AUG.1953",
+        "year": 1953,
+        "time": "02:00",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 28, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-4",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "series": "1953",
+        "shot": "6 (Joe 6?)",
+        "date": "3.SEP.1953",
+        "year": 1953,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "series": "1953",
+        "shot": "7",
+        "date": "8.SEP.1953",
+        "year": 1953,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "series": "1953",
+        "shot": "8 (Joe 7?)",
+        "date": "10.SEP.1953",
+        "year": 1953,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4,9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "series": "1954",
+        "shot": "9 (Joe 8?)",
+        "date": "14.SEP.1954",
+        "year": 1954,
+        "time": "06:33",
+        "site": "Russia, Orenberg area",
+        "type": "atmospheric, airdrop",
+        "purpose": "military exercise",
+        "yield": "min: 40, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-3",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.84,
+          52.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "series": "1954",
+        "shot": "10",
+        "date": "29.SEP.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "series": "1954",
+        "shot": "11",
+        "date": "1.OCT.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,03, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "series": "1954",
+        "shot": "12 (Joe 9?)",
+        "date": "3.OCT.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "series": "1954",
+        "shot": "13 (Joe 10?)",
+        "date": "5.OCT.1954",
+        "year": 1954,
+        "time": "03:00",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "series": "1954",
+        "shot": "14 (Joe 11?)",
+        "date": "8.OCT.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "series": "1954",
+        "shot": "15",
+        "date": "19.OCT.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 0,001",
+        "crater": "Unknown",
+        "warhead": "RDS-9/T-5",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "series": "1954",
+        "shot": "16 (Joe 12?)",
+        "date": "23.OCT.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 62, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-3I",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "series": "1954",
+        "shot": "17 (Joe 13?)",
+        "date": "26.OCT.1954",
+        "year": 1954,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "series": "1954",
+        "shot": "18 (Joe 14?)",
+        "date": "30.OCT.1954",
+        "year": 1954,
+        "time": "04:00",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 10, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "series": "1955",
+        "shot": "X",
+        "date": "20.FEB.1955",
+        "year": 1955,
+        "time": "Unknown",
+        "site": "",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "R-5M wh",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "Unknown",
+          "Unknown"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "series": "1955",
+        "shot": "19 (Joe 15)",
+        "date": "29.JUL.1955",
+        "year": 1955,
+        "time": "02:00",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "series": "1955",
+        "shot": "20 (Joe 16)",
+        "date": "2.AUG.1955",
+        "year": 1955,
+        "time": "03:00",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "series": "1955",
+        "shot": "21",
+        "date": "5.AUG.1955",
+        "year": 1955,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "series": "1955",
+        "shot": "22 (Joe 17)",
+        "date": "21.SEP.1955",
+        "year": 1955,
+        "time": "Unknown",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "underwater, barge",
+        "purpose": "weapons effects",
+        "yield": "min: 3,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9/T-5",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.56,
+          70.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "series": "1955",
+        "shot": "X",
+        "date": "21.SEP.1955",
+        "year": 1955,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: 0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "series": "1955",
+        "shot": "23 (Joe 18)",
+        "date": "6.NOV.1955",
+        "year": 1955,
+        "time": "04:50",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 250, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-27",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "series": "1955",
+        "shot": "24 (Joe 19)",
+        "date": "22.NOV.1955",
+        "year": 1955,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1600, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-37",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "series": "1956",
+        "shot": "25",
+        "date": "2.FEB.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "atmospheric, surface, rocket or missile",
+        "purpose": "weapons effects",
+        "yield": "min: 0,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0,
+          46.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "series": "1956",
+        "shot": "26",
+        "date": "16.MAR.1956",
+        "year": 1956,
+        "time": "05:00",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 14, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "series": "1956",
+        "shot": "27",
+        "date": "25.MAR.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "series": "1956",
+        "shot": "28",
+        "date": "24.AUG.1956",
+        "year": 1956,
+        "time": "00:15",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 27, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "series": "1956",
+        "shot": "29",
+        "date": "30.AUG.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 900, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "series": "1956",
+        "shot": "30",
+        "date": "2.SEP.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 51, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "series": "1956",
+        "shot": "31",
+        "date": "10.SEP.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 38, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "series": "1956",
+        "shot": "32",
+        "date": "17.NOV.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 900, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "series": "1956",
+        "shot": "33",
+        "date": "14.DEC.1956",
+        "year": 1956,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 40, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "series": "1957",
+        "shot": "34",
+        "date": "19.JAN.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "weapons effects",
+        "yield": "min: 10, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "series": "1957",
+        "shot": "35",
+        "date": "8.MAR.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 19, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "series": "1957",
+        "shot": "36",
+        "date": "3.APR.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 42, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "series": "1957",
+        "shot": "37",
+        "date": "6.APR.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 57, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "series": "1957",
+        "shot": "38",
+        "date": "10.APR.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 680, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "series": "1957",
+        "shot": "39",
+        "date": "12.APR.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 22, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "series": "1957",
+        "shot": "40",
+        "date": "16.APR.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 320, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "series": "1957",
+        "shot": "41",
+        "date": "22.AUG.1957",
+        "year": 1957,
+        "time": "06:30",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 520, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "series": "1957",
+        "shot": "42",
+        "date": "26.AUG.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "safety experiment",
+        "yield": "min: 0,1, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "series": "1957",
+        "shot": "43",
+        "date": "7.SEP.1957",
+        "year": 1957,
+        "time": "08:00:01.0",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "atmospheric, surface, tower",
+        "purpose": "fundamental science",
+        "yield": "min: 32, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8,
+          70.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "series": "1957",
+        "shot": "44",
+        "date": "13.SEP.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5,9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "series": "1957",
+        "shot": "45",
+        "date": "24.SEP.1957",
+        "year": 1957,
+        "time": "09:00",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1600, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "series": "1957",
+        "shot": "46",
+        "date": "26.SEP.1957",
+        "year": 1957,
+        "time": "05:00",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 13, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "series": "1957",
+        "shot": "47",
+        "date": "6.OCT.1957",
+        "year": 1957,
+        "time": "09:00",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2900, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-46A/R-7",
+        "sponsor": "A wh",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "series": "1957",
+        "shot": "48",
+        "date": "10.OCT.1957",
+        "year": 1957,
+        "time": "06:54:32",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "underwater, antisubmarine weapon or torpedo",
+        "purpose": "weapons effects",
+        "yield": "min: 10, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9/T-5",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.56,
+          70.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "series": "1957",
+        "shot": "49",
+        "date": "28.DEC.1957",
+        "year": 1957,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "series": "1958",
+        "shot": "50",
+        "date": "4.JAN.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "series": "1958",
+        "shot": "51",
+        "date": "17.JAN.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "series": "1958",
+        "shot": "52",
+        "date": "23.FEB.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 860, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "wh-2 NGB?",
+        "sponsor": "KB-11?",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "series": "1958",
+        "shot": "53",
+        "date": "27.FEB.1958",
+        "year": 1958,
+        "time": "07:59",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 250, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "series": "1958",
+        "shot": "54",
+        "date": "27.FEB.1958",
+        "year": 1958,
+        "time": "10:24",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1500, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "wh-1",
+        "sponsor": "Ch-70?",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "series": "1958",
+        "shot": "55",
+        "date": "13.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "series": "1958",
+        "shot": "X",
+        "date": "13.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: 0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "series": "1958",
+        "shot": "56",
+        "date": "14.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 35, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "series": "1958",
+        "shot": "57",
+        "date": "14.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 40, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "series": "1958",
+        "shot": "58",
+        "date": "15.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 14, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "series": "1958",
+        "shot": "X",
+        "date": "15.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: 0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "series": "1958",
+        "shot": "59",
+        "date": "18.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 0,16, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "series": "1958",
+        "shot": "60",
+        "date": "20.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "series": "1958",
+        "shot": "61",
+        "date": "21.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 650, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "series": "1958",
+        "shot": "62",
+        "date": "22.MAR.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 18, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "series": "1958",
+        "shot": "63",
+        "date": "30.SEP.1958",
+        "year": 1958,
+        "time": "07:50",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1200, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "series": "1958",
+        "shot": "64",
+        "date": "30.SEP.1958",
+        "year": 1958,
+        "time": "09:55",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 900, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "series": "1958",
+        "shot": "65",
+        "date": "2.OCT.1958",
+        "year": 1958,
+        "time": "08:00",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 290, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "series": "1958",
+        "shot": "66",
+        "date": "2.OCT.1958",
+        "year": 1958,
+        "time": "09:01",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 40, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "series": "1958",
+        "shot": "67",
+        "date": "4.OCT.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "series": "1958",
+        "shot": "68",
+        "date": "5.OCT.1958",
+        "year": 1958,
+        "time": "06:00",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 15, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "series": "1958",
+        "shot": "69",
+        "date": "6.OCT.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "series": "1958",
+        "shot": "70",
+        "date": "10.OCT.1958",
+        "year": 1958,
+        "time": "07:51",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 68, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "series": "1958",
+        "shot": "71",
+        "date": "12.OCT.1958",
+        "year": 1958,
+        "time": "07:53:34",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1450, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "wh-1",
+        "sponsor": "Ch-70?",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.32,
+          74.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "series": "1958",
+        "shot": "72",
+        "date": "15.OCT.1958",
+        "year": 1958,
+        "time": "07:51:14",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1500, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8,
+          74.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "series": "1958",
+        "shot": "73",
+        "date": "18.OCT.1958",
+        "year": 1958,
+        "time": "09:51:06",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2900, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.47,
+          73.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "series": "1958",
+        "shot": "74",
+        "date": "19.OCT.1958",
+        "year": 1958,
+        "time": "07:27",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 40, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "series": "1958",
+        "shot": "75",
+        "date": "19.OCT.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 0,001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "series": "1958",
+        "shot": "76",
+        "date": "20.OCT.1958",
+        "year": 1958,
+        "time": "08:20",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 440, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "series": "1958",
+        "shot": "77",
+        "date": "21.OCT.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "series": "1958",
+        "shot": "78",
+        "date": "22.OCT.1958",
+        "year": 1958,
+        "time": "08:21:04",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2800, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1,
+          73.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "series": "1958",
+        "shot": "79",
+        "date": "24.OCT.1958",
+        "year": 1958,
+        "time": "08:03:06",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "wh-2 NGB?",
+        "sponsor": "KB-11?",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.97,
+          73.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "series": "1958",
+        "shot": "80",
+        "date": "25.OCT.1958",
+        "year": 1958,
+        "time": "08:20",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 190, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "series": "1958",
+        "shot": "81",
+        "date": "25.OCT.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 0, max: 0,1",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "series": "1958",
+        "shot": "82",
+        "date": "1.NOV.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "weapons effects",
+        "yield": "min: 10, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "series": "1958",
+        "shot": "83",
+        "date": "3.NOV.1958",
+        "year": 1958,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "weapons effects",
+        "yield": "min: 10, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "series": "1961",
+        "shot": "84",
+        "date": "1.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 16, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "series": "1961",
+        "shot": "85",
+        "date": "4.SEP.1961",
+        "year": 1961,
+        "time": "05:00:27",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.74,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "series": "1961",
+        "shot": "86",
+        "date": "5.SEP.1961",
+        "year": 1961,
+        "time": "06:00:05",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 16, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.74,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "series": "1961",
+        "shot": "87",
+        "date": "6.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,1, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "series": "1961",
+        "shot": "88",
+        "date": "6.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "atmospheric",
+        "purpose": "weapons effects",
+        "yield": "min: 11, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          48.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "series": "1961",
+        "shot": "89",
+        "date": "9.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,38, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "series": "1961",
+        "shot": "90",
+        "date": "10.SEP.1961",
+        "year": 1961,
+        "time": "09:00:09.2",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2700, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5,
+          74.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "series": "1961",
+        "shot": "91",
+        "date": "10.SEP.1961",
+        "year": 1961,
+        "time": "11:00",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6,
+          70.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "series": "1961",
+        "shot": "92",
+        "date": "10.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,88, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "series": "1961",
+        "shot": "93",
+        "date": "11.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "series": "1961",
+        "shot": "94",
+        "date": "12.SEP.1961",
+        "year": 1961,
+        "time": "10:08:15.3",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1150, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1,
+          74.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "series": "1961",
+        "shot": "95",
+        "date": "13.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.33,
+          70.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "series": "1961",
+        "shot": "96",
+        "date": "13.SEP.1961",
+        "year": 1961,
+        "time": "05:01:55.8",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,001, max: 20",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "series": "1961",
+        "shot": "97",
+        "date": "14.SEP.1961",
+        "year": 1961,
+        "time": "05:59:59.4",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.82,
+          50.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "series": "1961",
+        "shot": "98",
+        "date": "14.SEP.1961",
+        "year": 1961,
+        "time": "09:56:16.7",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1200, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1,
+          74.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "series": "1961",
+        "shot": "99",
+        "date": "16.SEP.1961",
+        "year": 1961,
+        "time": "09:08:13.7",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 830, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9,
+          74.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "series": "1961",
+        "shot": "100",
+        "date": "17.SEP.1961",
+        "year": 1961,
+        "time": "07:00:46.6",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "series": "1961",
+        "shot": "101",
+        "date": "18.SEP.1961",
+        "year": 1961,
+        "time": "07:59:36.8",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0,
+          74.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "series": "1961",
+        "shot": "102",
+        "date": "18.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,004, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "series": "1961",
+        "shot": "103",
+        "date": "18.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,75, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "series": "1961",
+        "shot": "104",
+        "date": "19.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,03, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "series": "1961",
+        "shot": "105",
+        "date": "20.SEP.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "series": "1961",
+        "shot": "106",
+        "date": "20.SEP.1961",
+        "year": 1961,
+        "time": "08:12:12",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 150, max: 1500",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3,
+          73.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "series": "1961",
+        "shot": "107",
+        "date": "21.SEP.1961",
+        "year": 1961,
+        "time": "14:01:01.6",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7,
+          50.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "series": "1961",
+        "shot": "108",
+        "date": "22.SEP.1961",
+        "year": 1961,
+        "time": "08:11:00",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 260, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3,
+          73.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "series": "1961",
+        "shot": "109",
+        "date": "26.SEP.1961",
+        "year": 1961,
+        "time": "07:01:19.8",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "series": "1961",
+        "shot": "110",
+        "date": "1.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "series": "1961",
+        "shot": "111",
+        "date": "2.OCT.1961",
+        "year": 1961,
+        "time": "10:30:50",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 250, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.55,
+          73.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "series": "1961",
+        "shot": "112",
+        "date": "4.OCT.1961",
+        "year": 1961,
+        "time": "07:01:19.9",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 13, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.76,
+          50.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "series": "1961",
+        "shot": "113",
+        "date": "4.OCT.1961",
+        "year": 1961,
+        "time": "07:30:54.8",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1500, max: 10000",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8,
+          73.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "series": "1961",
+        "shot": "114",
+        "date": "6.OCT.1961",
+        "year": 1961,
+        "time": "07:00:12.2",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6,
+          74.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "series": "1961",
+        "shot": "115",
+        "date": "6.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "atmospheric, high altitude (between 30 km and 80 km), rocket",
+        "purpose": "weapons effects",
+        "yield": "min: 40, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          48.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "series": "1961",
+        "shot": "116",
+        "date": "8.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "atmospheric, cruise missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 15, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "KSR-2 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6,
+          70.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "series": "1961",
+        "shot": "117",
+        "date": "11.OCT.1961",
+        "year": 1961,
+        "time": "07:39:59.9",
+        "site": "Semipalatinsk, Degelen",
+        "type": "underground, tunnel",
+        "purpose": "fundamental science",
+        "yield": "min: 1, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.98861,
+          49.77389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "series": "1961",
+        "shot": "118",
+        "date": "12.OCT.1961",
+        "year": 1961,
+        "time": "05:31:03.6",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 15, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "series": "1961",
+        "shot": "119",
+        "date": "17.OCT.1961",
+        "year": 1961,
+        "time": "07:00:00.8",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6,6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "series": "1961",
+        "shot": "120",
+        "date": "19.OCT.1961",
+        "year": 1961,
+        "time": "05:30:42.6",
+        "site": "Semipalatinsk, Ground Zero (Technical Area Sh)",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,001, max: 20",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "series": "1961",
+        "shot": "121 Raduga",
+        "date": "20.OCT.1961",
+        "year": 1961,
+        "time": "08:07:02.0",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1450, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "R-13 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2,
+          73.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "series": "1961",
+        "shot": "122 Korall",
+        "date": "23.OCT.1961",
+        "year": 1961,
+        "time": "08:31:22.1",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "underwater, antisubmarine weapon or torpedo",
+        "purpose": "weapons effects",
+        "yield": "min: 4,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.56,
+          70.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "series": "1961",
+        "shot": "123",
+        "date": "23.OCT.1961",
+        "year": 1961,
+        "time": "10:30:48.0",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12500, max: 2",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8,
+          73.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "series": "1961",
+        "shot": "124",
+        "date": "25.OCT.1961",
+        "year": 1961,
+        "time": "08:31:05",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 300, max: <",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3,
+          73.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "series": "1961",
+        "shot": "125",
+        "date": "25.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 0,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "series": "1961",
+        "shot": "126 Korall",
+        "date": "27.OCT.1961",
+        "year": 1961,
+        "time": "08:30:26.6",
+        "site": "Novaya Zemlya, Chernaya Bay",
+        "type": "atmospheric, water surface, anti-submarine weapon or torpedo",
+        "purpose": "weapons effects",
+        "yield": "min: 16, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "RDS-9",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67,
+          70.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "series": "K Project",
+        "shot": "127 K2",
+        "date": "27.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "space (altitude over 80 km), rocket",
+        "purpose": "weapons effects",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "series": "K Project",
+        "shot": "128 K1",
+        "date": "27.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Missile Testing Range",
+        "type": "space (altitude over 80 km), rocket",
+        "purpose": "weapons effects",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134,
+        "series": "1961",
+        "shot": "129",
+        "date": "30.OCT.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,09, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135,
+        "series": "1961",
+        "shot": "130 Tsar Bomba",
+        "date": "30.OCT.1961",
+        "year": 1961,
+        "time": "08:33:27.8",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 50000, max: 5",
+        "crater": "Unknown",
+        "warhead": "RDS-220",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5,
+          73.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136,
+        "series": "1961",
+        "shot": "131",
+        "date": "31.OCT.1961",
+        "year": 1961,
+        "time": "08:29:17.2",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2,
+          73.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137,
+        "series": "1961",
+        "shot": "132",
+        "date": "31.OCT.1961",
+        "year": 1961,
+        "time": "08:38",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 150, max: 1500<",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138,
+        "series": "1961",
+        "shot": "133",
+        "date": "1.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2,7, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139,
+        "series": "1961",
+        "shot": "134",
+        "date": "2.NOV.1961",
+        "year": 1961,
+        "time": "08:41",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 120, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 140,
+        "series": "1961",
+        "shot": "135",
+        "date": "2.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 280, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 141,
+        "series": "1961",
+        "shot": "136",
+        "date": "2.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142,
+        "series": "1961",
+        "shot": "137",
+        "date": "3.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: 0,001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+        "series": "1961",
+        "shot": "138",
+        "date": "3.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144,
+        "series": "1961",
+        "shot": "139",
+        "date": "4.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 15, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145,
+        "series": "1961",
+        "shot": "140",
+        "date": "4.NOV.1961",
+        "year": 1961,
+        "time": "07:20:19.7",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 150, max: 1500",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7,
+          73.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146,
+        "series": "1961",
+        "shot": "141",
+        "date": "4.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 147,
+        "series": "1961",
+        "shot": "142",
+        "date": "4.NOV.1961",
+        "year": 1961,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148,
+        "series": "1962",
+        "shot": "143 Argon-1",
+        "date": "2.FEB.1962",
+        "year": 1962,
+        "time": "08:00:00.2",
+        "site": "Semipalatinsk, Degelen",
+        "type": "underground, tunnel",
+        "purpose": "weapons effects",
+        "yield": "min: 0,001, max: 20",
+        "crater": "C",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.99694,
+          49.785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 149,
+        "series": "1962",
+        "shot": "144",
+        "date": "1.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 150,
+        "series": "1962",
+        "shot": "145",
+        "date": "3.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 151,
+        "series": "1962",
+        "shot": "146",
+        "date": "4.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152,
+        "series": "1962",
+        "shot": "147",
+        "date": "5.AUG.1962",
+        "year": 1962,
+        "time": "09:08:45.8",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 21100, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5,
+          74.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 153,
+        "series": "1962",
+        "shot": "148",
+        "date": "7.AUG.1962",
+        "year": 1962,
+        "time": "03:00",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 9,9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 154,
+        "series": "1962",
+        "shot": "149",
+        "date": "10.AUG.1962",
+        "year": 1962,
+        "time": "09:00",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 150, max: 1500<",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 155,
+        "series": "1962",
+        "shot": "150",
+        "date": "18.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 7,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156,
+        "series": "1962",
+        "shot": "151",
+        "date": "18.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 157,
+        "series": "1962",
+        "shot": "152",
+        "date": "20.AUG.1962",
+        "year": 1962,
+        "time": "09:02:14.1",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2800, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5,
+          74.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158,
+        "series": "1962",
+        "shot": "153",
+        "date": "21.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 1502",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159,
+        "series": "1962",
+        "shot": "154",
+        "date": "22.AUG.1962",
+        "year": 1962,
+        "time": "09:00:04.2",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1600, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3,
+          74.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160,
+        "series": "1962",
+        "shot": "155",
+        "date": "22.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric, water surface, cruise missile",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "KSR-2 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161,
+        "series": "1962",
+        "shot": "156",
+        "date": "22.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162,
+        "series": "1962",
+        "shot": "157",
+        "date": "23.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163,
+        "series": "1962",
+        "shot": "159",
+        "date": "25.AUG.1962",
+        "year": 1962,
+        "time": "05:40",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,001, max: 20",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 164,
+        "series": "1962",
+        "shot": "158",
+        "date": "25.AUG.1962",
+        "year": 1962,
+        "time": "09:00",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1500, max: 100001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165,
+        "series": "1962",
+        "shot": "160",
+        "date": "27.AUG.1962",
+        "year": 1962,
+        "time": "09:00:50.9",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4200, max: 1",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3,
+          74.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166,
+        "series": "1962",
+        "shot": "161",
+        "date": "27.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 11, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167,
+        "series": "1962",
+        "shot": "162",
+        "date": "31.AUG.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 2,7, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168,
+        "series": "1962",
+        "shot": "163",
+        "date": "2.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 169,
+        "series": "1962",
+        "shot": "X",
+        "date": "6.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: 0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+        "series": "1962",
+        "shot": "164",
+        "date": "8.SEP.1962",
+        "year": 1962,
+        "time": "10:17:57.7",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1900, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8,
+          73.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171,
+        "series": "1962",
+        "shot": "165",
+        "date": "15.SEP.1962",
+        "year": 1962,
+        "time": "08:02:13.9",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3100, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5,
+          74.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172,
+        "series": "1962",
+        "shot": "166",
+        "date": "16.SEP.1962",
+        "year": 1962,
+        "time": "10:59:10.5",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3250, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6,
+          74.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 173,
+        "series": "1962",
+        "shot": "167",
+        "date": "18.SEP.1962",
+        "year": 1962,
+        "time": "08:29:02.7",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1350, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7,
+          73.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 174,
+        "series": "1962",
+        "shot": "X",
+        "date": "18.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "series": "1962",
+        "shot": "168",
+        "date": "19.SEP.1962",
+        "year": 1962,
+        "time": "11:00:56.4",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1500, max: 100002",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Ch-70?",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8,
+          73.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 176,
+        "series": "1962",
+        "shot": "169",
+        "date": "21.SEP.1962",
+        "year": 1962,
+        "time": "08:00",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2400, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 177,
+        "series": "1962",
+        "shot": "170",
+        "date": "22.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,21, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "series": "1962",
+        "shot": "171",
+        "date": "24.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 179,
+        "series": "1962",
+        "shot": "172",
+        "date": "25.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 7, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 180,
+        "series": "1962",
+        "shot": "173",
+        "date": "25.SEP.1962",
+        "year": 1962,
+        "time": "13:02:31.7",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 19100, max: 2",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Ch-70",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 181,
+        "series": "1962",
+        "shot": "174",
+        "date": "27.SEP.1962",
+        "year": 1962,
+        "time": "08:03:16.4",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 10000, max: 500001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "KB-11",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4,
+          74.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 182,
+        "series": "1962",
+        "shot": "175",
+        "date": "28.SEP.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 1,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 183,
+        "series": "1962",
+        "shot": "176",
+        "date": "7.OCT.1962",
+        "year": 1962,
+        "time": "16:32",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 320, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184,
+        "series": "1962",
+        "shot": "177",
+        "date": "9.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185,
+        "series": "1962",
+        "shot": "178",
+        "date": "9.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 15, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+        "series": "1962",
+        "shot": "179",
+        "date": "10.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 9,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 187,
+        "series": "1962",
+        "shot": "180",
+        "date": "13.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4,9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 188,
+        "series": "1962",
+        "shot": "181",
+        "date": "14.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,001, max: 20",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 189,
+        "series": "1962",
+        "shot": "182",
+        "date": "20.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6,7, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 190,
+        "series": "K Project",
+        "shot": "184 K3",
+        "date": "22.OCT.1962",
+        "year": 1962,
+        "time": "03:40:45",
+        "site": "Missile Testing Range",
+        "type": "space (altitude over 80 km), rocket",
+        "purpose": "weapons effects",
+        "yield": "min: 300, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 191,
+        "series": "1962",
+        "shot": "183",
+        "date": "22.OCT.1962",
+        "year": 1962,
+        "time": "09:06:10.1",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8200, max: 2",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9,
+          73.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 192,
+        "series": "1962",
+        "shot": "185",
+        "date": "27.OCT.1962",
+        "year": 1962,
+        "time": "07:35",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 260, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193,
+        "series": "1962",
+        "shot": "186",
+        "date": "28.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 7,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 194,
+        "series": "K Project",
+        "shot": "187 K4",
+        "date": "28.OCT.1962",
+        "year": 1962,
+        "time": "04:41:20",
+        "site": "Missile Testing Range",
+        "type": "space (altitude over 80 km), rocket",
+        "purpose": "weapons effects",
+        "yield": "min: 300, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 195,
+        "series": "1962",
+        "shot": "188",
+        "date": "28.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 7,8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 196,
+        "series": "1962",
+        "shot": "189",
+        "date": "29.OCT.1962",
+        "year": 1962,
+        "time": "07:35",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 360, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 197,
+        "series": "1962",
+        "shot": "190",
+        "date": "30.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 198,
+        "series": "1962",
+        "shot": "191",
+        "date": "30.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 280, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 199,
+        "series": "1962",
+        "shot": "192",
+        "date": "31.OCT.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 10, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 200,
+        "series": "1962",
+        "shot": "194",
+        "date": "1.NOV.1962",
+        "year": 1962,
+        "time": "06:30",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 240, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "series": "K Project",
+        "shot": "195 K5",
+        "date": "1.NOV.1962",
+        "year": 1962,
+        "time": "09:12",
+        "site": "Missile Testing Range",
+        "type": "atmospheric, high altitude (between 30 km and 80 km), rocket",
+        "purpose": "weapons effects",
+        "yield": "min: 300, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          49.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "series": "1962",
+        "shot": "193",
+        "date": "1.NOV.1962",
+        "year": 1962,
+        "time": "09:20",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "series": "1962",
+        "shot": "196",
+        "date": "3.NOV.1962",
+        "year": 1962,
+        "time": "08:31",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 390, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "series": "1962",
+        "shot": "197",
+        "date": "3.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 45, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 205,
+        "series": "1962",
+        "shot": "198",
+        "date": "3.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4,7, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 206,
+        "series": "1962",
+        "shot": "199",
+        "date": "4.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Extra",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 207,
+        "series": "1962",
+        "shot": "200",
+        "date": "5.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "weapons effects",
+        "yield": "min: 0,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 208,
+        "series": "1962",
+        "shot": "201",
+        "date": "11.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric, surface, tower",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,1, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 209,
+        "series": "1962",
+        "shot": "202",
+        "date": "13.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 0,001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 210,
+        "series": "1962",
+        "shot": "203",
+        "date": "14.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 211,
+        "series": "1962",
+        "shot": "204",
+        "date": "17.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 18, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 212,
+        "series": "1962",
+        "shot": "205",
+        "date": "24.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: 0,001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 213,
+        "series": "1962",
+        "shot": "206",
+        "date": "26.NOV.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,031, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 214,
+        "series": "1962",
+        "shot": "207",
+        "date": "1.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 215,
+        "series": "1962",
+        "shot": "208",
+        "date": "18.DEC.1962",
+        "year": 1962,
+        "time": "10:45",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 110, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 216,
+        "series": "1962",
+        "shot": "209",
+        "date": "18.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "fundamental science",
+        "yield": "min: 69, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 217,
+        "series": "1962",
+        "shot": "210",
+        "date": "20.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 218,
+        "series": "1962",
+        "shot": "211",
+        "date": "22.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 219,
+        "series": "1962",
+        "shot": "212",
+        "date": "23.DEC.1962",
+        "year": 1962,
+        "time": "11:15",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 430, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220,
+        "series": "1962",
+        "shot": "213",
+        "date": "23.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8,3, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 221,
+        "series": "1962",
+        "shot": "214",
+        "date": "23.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2,4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 222,
+        "series": "1962",
+        "shot": "215",
+        "date": "23.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: 0,001",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223,
+        "series": "1962",
+        "shot": "216",
+        "date": "24.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,007, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 224,
+        "series": "1962",
+        "shot": "217",
+        "date": "24.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Semipalatinsk",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,028, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 225,
+        "series": "1962",
+        "shot": "218",
+        "date": "24.DEC.1962",
+        "year": 1962,
+        "time": "10:44:21.9",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1100, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3,
+          74.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 226,
+        "series": "1962",
+        "shot": "219",
+        "date": "24.DEC.1962",
+        "year": 1962,
+        "time": "11:11:42.0",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 24200, max: 2",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Ch-70",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5,
+          73.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227,
+        "series": "1962",
+        "shot": "220",
+        "date": "25.DEC.1962",
+        "year": 1962,
+        "time": "13:35:57.2",
+        "site": "Novaya Zemlya, Mityushikha Bay",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 3100, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5,
+          73.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228,
+        "series": "1962",
+        "shot": "221",
+        "date": "25.DEC.1962",
+        "year": 1962,
+        "time": "Unknown",
+        "site": "Novaya Zemlya",
+        "type": "atmospheric",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "USSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          73.0
+        ]
+      }
+    }
+  ]
+}

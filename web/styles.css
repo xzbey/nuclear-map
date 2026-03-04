@@ -1,0 +1,43 @@
+#map {
+    height: 100vh;
+    width: 100%;
+    display: block;
+}
+
+.filters {
+    position: absolute;
+    z-index: 1000;
+    
+    top: 10px;
+    left: 50px;
+
+    background-color: white;
+    padding: 6px;
+    border-radius: 5px;
+    border: rgb(162, 162, 162) 2px solid;
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    font: bold 14px Arial;
+}
+
+.filters select {
+    font: bold 14px Arial;
+    border-radius: 5px;
+}
+
+.year-filter {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}

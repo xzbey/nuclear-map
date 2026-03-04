@@ -1,0 +1,1301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "series": "Unknown",
+        "shot": "596",
+        "date": "16.OCT.1964",
+        "year": 1964,
+        "time": "07:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, surface, tower",
+        "purpose": "Unknown",
+        "yield": "min: 20, max: 22.0",
+        "crater": "Unknown",
+        "warhead": "NGB",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3,
+          42.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "14.MAY.1965",
+        "year": 1965,
+        "time": "02:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 20, max: 40.0",
+        "crater": "Unknown",
+        "warhead": "NGB",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "9.MAY.1966",
+        "year": 1966,
+        "time": "08:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 200, max: 300.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "27.OCT.1966",
+        "year": 1966,
+        "time": "01:10",
+        "site": "Lop Nor",
+        "type": "atmospheric, rocket or missile",
+        "purpose": "Unknown",
+        "yield": "min: 12, max: 30.0",
+        "crater": "Unknown",
+        "warhead": "DF-2 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "28.DEC.1966",
+        "year": 1966,
+        "time": "04:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, surface, tower",
+        "purpose": "Unknown",
+        "yield": "min: 300, max: 500.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "17.JUN.1967",
+        "year": 1967,
+        "time": "00:19:08.20",
+        "site": "Lop Nor, area D",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 3000, max: 3300.0",
+        "crater": "Unknown",
+        "warhead": "NGB/DF-3 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.775,
+          40.744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "24.DEC.1967",
+        "year": 1967,
+        "time": "04:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 15, max: 25.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "27.DEC.1968",
+        "year": 1968,
+        "time": "07:30",
+        "site": "Lop Nor",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 3000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "NGB/DF-3 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "22.SEP.1969",
+        "year": 1969,
+        "time": "16:14:59.21",
+        "site": "Lop Nor, area B",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 20, max: 25.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.318,
+          41.376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "29.SEP.1969",
+        "year": 1969,
+        "time": "08:40:12.36",
+        "site": "Lop Nor, area D",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 3000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "NGB/DF-3 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.515,
+          40.722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "14.OCT.1970",
+        "year": 1970,
+        "time": "07:29:56.91",
+        "site": "Lop Nor, area D",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 3000, max: 3400.0",
+        "crater": "Unknown",
+        "warhead": "NGB/DF-3 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.779,
+          40.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "18.NOV.1971",
+        "year": 1971,
+        "time": "06:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, surface, tower",
+        "purpose": "Unknown",
+        "yield": "min: 15, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "7.JAN.1972",
+        "year": 1972,
+        "time": "07:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 8, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "tactical NW?",
+        "sponsor": "?",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "18.MAR.1972",
+        "year": 1972,
+        "time": "06:00",
+        "site": "Lop Nor",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 100, max: 200.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "27.JUN.1973",
+        "year": 1973,
+        "time": "03:59:46.29",
+        "site": "Lop Nor, area D",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 2000, max: 3000.0",
+        "crater": "Unknown",
+        "warhead": "NGB/DF-3 wh",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8091,
+          40.7985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "17.JUN.1974",
+        "year": 1974,
+        "time": "05:59:52.72",
+        "site": "Lop Nor, area D",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 200, max: 1000.0",
+        "crater": "Unknown",
+        "warhead": "BM wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.619,
+          40.518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "27.OCT.1975",
+        "year": 1975,
+        "time": "00:59:58.23",
+        "site": "Lop Nor, area B",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 10.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.326,
+          41.375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "23.JAN.1976",
+        "year": 1976,
+        "time": "06:00",
+        "site": "Lop Nor",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "26.SEP.1976",
+        "year": 1976,
+        "time": "06:00",
+        "site": "Lop Nor",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 200, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "17.OCT.1976",
+        "year": 1976,
+        "time": "04:59:58.80",
+        "site": "Lop Nor, area A",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 10, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.37,
+          41.708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "17.NOV.1976",
+        "year": 1976,
+        "time": "06:00:12.70",
+        "site": "Lop Nor, area D",
+        "type": "atmospheric, airdrop",
+        "purpose": "Unknown",
+        "yield": "min: 4000, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "DF-5 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.627,
+          40.696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "17.SEP.1977",
+        "year": 1977,
+        "time": "07:00",
+        "site": "Lop Nor",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "15.MAR.1978",
+        "year": 1978,
+        "time": "05:00",
+        "site": "Lop Nor",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 6, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "14.OCT.1978",
+        "year": 1978,
+        "time": "00:59:58.01",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.722,
+          41.523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "14.DEC.1978",
+        "year": 1978,
+        "time": "Unknown",
+        "site": "Lop Nor",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "series": "Unknown",
+        "shot": "X",
+        "date": "2.FEB.1979",
+        "year": 1979,
+        "time": "Unknown",
+        "site": "Lop Nor",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "13.SEP.1979",
+        "year": 1979,
+        "time": "Unknown",
+        "site": "Lop Nor",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "16.OCT.1980",
+        "year": 1980,
+        "time": "04:30:29.67",
+        "site": "Lop Nor, area D",
+        "type": "A",
+        "purpose": "Unknown",
+        "yield": "min: 200, max: 1000.0",
+        "crater": "Unknown",
+        "warhead": "BM wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.651,
+          40.719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "5.OCT.1982",
+        "year": 1982,
+        "time": "Unknown",
+        "site": "Lop Nor",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 3, max: 15.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "4.MAY.1983",
+        "year": 1983,
+        "time": "04:59:57.82",
+        "site": "Lop Nor, area A",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 1, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.368,
+          41.679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "6.OCT.1983",
+        "year": 1983,
+        "time": "09:59:58.05",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 20, max: 100.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.714,
+          41.538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "3.OCT.1984",
+        "year": 1984,
+        "time": "05:59:57.99",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 15, max: 70.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7216,
+          41.5713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "19.DEC.1984",
+        "year": 1984,
+        "time": "05:59:58.34",
+        "site": "Lop Nor, area A",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 5, max: 50.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.425,
+          41.737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "5.JUN.1987",
+        "year": 1987,
+        "time": "04:59:58.26",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 250, max: 400.0",
+        "crater": "Unknown",
+        "warhead": "JL-1 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.713,
+          41.518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "29.SEP.1988",
+        "year": 1988,
+        "time": "06:59:57.97",
+        "site": "Lop Nor, area A",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 1, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "tactical ERW?",
+        "sponsor": "W?",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.38,
+          41.768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "26.MAY.1990",
+        "year": 1990,
+        "time": "07:59:57.94",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 15, max: 65.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.701,
+          41.569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "16.AUG.1990",
+        "year": 1990,
+        "time": "04:59:57.70",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 50, max: 200.0",
+        "crater": "Unknown",
+        "warhead": "JL-1 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.739,
+          41.514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "21.MAY.1992",
+        "year": 1992,
+        "time": "04:59:57.45",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 660, max: 1000.0",
+        "crater": "Unknown",
+        "warhead": "BM wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.774,
+          41.513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "25.SEP.1992",
+        "year": 1992,
+        "time": "07:59:58.47",
+        "site": "Lop Nor, area A",
+        "type": "underground, tunnel",
+        "purpose": "Unknown",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.336,
+          41.716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "series": "Unknown",
+        "shot": "X",
+        "date": "2.NOV.1992",
+        "year": 1992,
+        "time": "Unknown",
+        "site": "Lop Nor",
+        "type": "underground",
+        "purpose": "Unknown",
+        "yield": "min: 0,001, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "5.OCT.1993",
+        "year": 1993,
+        "time": "01:59:56.6",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 40, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "DF-31 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.695,
+          41.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "10.JUN.1994",
+        "year": 1994,
+        "time": "06:25:57.9",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft?",
+        "purpose": "Unknown",
+        "yield": "min: 40, max: 50.0",
+        "crater": "Unknown",
+        "warhead": "DF-31 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.71,
+          41.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "7.OCT.1994",
+        "year": 1994,
+        "time": "03:25:58.1",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 40, max: 50.0",
+        "crater": "Unknown",
+        "warhead": "DF-31 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.75,
+          41.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "15.MAY.1995",
+        "year": 1995,
+        "time": "04:05:57.8",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 40, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "DF-31 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.82,
+          41.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "17.AUG.1995",
+        "year": 1995,
+        "time": "00:59:57.7",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft?",
+        "purpose": "Unknown",
+        "yield": "min: 60, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "DF-31 wh?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8,
+          41.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "series": "Unknown",
+        "shot": "S",
+        "date": "8.JUN.1996",
+        "year": 1996,
+        "time": "02:55:57.9",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft?",
+        "purpose": "Unknown",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.69,
+          41.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "series": "Unknown",
+        "shot": "SS",
+        "date": "8.JUN.1996",
+        "year": 1996,
+        "time": "02:55:57.9",
+        "site": "Lop Nor, area C",
+        "type": "underground, shaft?",
+        "purpose": "Unknown",
+        "yield": "min: Unknown, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.69,
+          41.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "series": "Unknown",
+        "shot": "Unknown",
+        "date": "29.JUL.1996",
+        "year": 1996,
+        "time": "01:48:57.8",
+        "site": "Lop Nor, area A",
+        "type": "underground, tunnel?",
+        "purpose": "Unknown",
+        "yield": "min: 1, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "PRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42,
+          41.82
+        ]
+      }
+    }
+  ]
+}

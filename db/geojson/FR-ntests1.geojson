@@ -1,0 +1,5675 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "series": "Gerboise",
+        "shot": "Gerboise Bleue",
+        "date": "13.FEB.1960",
+        "year": 1960,
+        "time": "07:04",
+        "site": "French Algeria, Reggane Proving Ground (CEMO)",
+        "type": "atmospheric, surface, tower",
+        "purpose": "weapons effects",
+        "yield": "min: 60, max: 70.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0572,
+          26.3117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "series": "Gerboise",
+        "shot": "Gerboise Blanche",
+        "date": "1.APR.1960",
+        "year": 1960,
+        "time": "06:17",
+        "site": "French Algeria, Reggane Proving Ground (CEMO)",
+        "type": "AS",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 20.0",
+        "crater": "C",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1025,
+          26.1661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "series": "Gerboise",
+        "shot": "Gerboise Rouge",
+        "date": "27.DEC.1960",
+        "year": 1960,
+        "time": "07:30",
+        "site": "French Algeria, Reggane Proving Ground (CEMO)",
+        "type": "atmospheric, surface, tower",
+        "purpose": "weapons effects",
+        "yield": "min: 0, max: 10.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1236,
+          26.3536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "series": "Gerboise",
+        "shot": "Gerboise Verte",
+        "date": "25.APR.1961",
+        "year": 1961,
+        "time": "06:00",
+        "site": "French Algeria, Reggane Proving Ground (CEMO)",
+        "type": "atmospheric, surface, tower",
+        "purpose": "Unknown",
+        "yield": "min: 0, max: 1.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0733,
+          26.3217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "series": "Unknown",
+        "shot": "Agate",
+        "date": "7.NOV.1961",
+        "year": 1961,
+        "time": "11:29:59.931",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 10.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0521,
+          24.0571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "series": "Unknown",
+        "shot": "Beryl",
+        "date": "1.MAY.1962",
+        "year": 1962,
+        "time": "10:00:00.458",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 10, max: 40.0",
+        "crater": "Unknown",
+        "warhead": "AN-11",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0418,
+          24.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "series": "Unknown",
+        "shot": "Emeraude",
+        "date": "18.MAR.1963",
+        "year": 1963,
+        "time": "10:02:00.351",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 10, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0521,
+          24.0413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "series": "Unknown",
+        "shot": "Amethyste",
+        "date": "30.MAR.1963",
+        "year": 1963,
+        "time": "09:59:00.328",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.057,
+          24.0433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "series": "Unknown",
+        "shot": "Rubis",
+        "date": "20.OCT.1963",
+        "year": 1963,
+        "time": "13:00:00.011",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 40, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0386,
+          24.0355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "series": "Unknown",
+        "shot": "Opale (Michele)",
+        "date": "14.FEB.1964",
+        "year": 1964,
+        "time": "11:00:00.347",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "WR/P",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0523,
+          24.0536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "series": "Unknown",
+        "shot": "Topaze",
+        "date": "15.JUN.1964",
+        "year": 1964,
+        "time": "13:40:00.367",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0345,
+          24.0666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "series": "Unknown",
+        "shot": "Turquoise",
+        "date": "28.NOV.1964",
+        "year": 1964,
+        "time": "10:30:00.035",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 10.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0416,
+          24.0418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "series": "Unknown",
+        "shot": "Saphir (Monique)",
+        "date": "27.FEB.1965",
+        "year": 1965,
+        "time": "11:30:00.039",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "WR/P",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0311,
+          24.0587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "series": "Unknown",
+        "shot": "Jade",
+        "date": "30.MAY.1965",
+        "year": 1965,
+        "time": "11:00:00.037",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0508,
+          24.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "series": "Unknown",
+        "shot": "Corindon",
+        "date": "1.OCT.1965",
+        "year": 1965,
+        "time": "10:00:00.043",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.034,
+          24.0649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "series": "Unknown",
+        "shot": "Tourmaline",
+        "date": "1.DEC.1965",
+        "year": 1965,
+        "time": "10:30:00.088",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 10, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0469,
+          24.0437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "series": "Unknown",
+        "shot": "Grenat (Georgette)",
+        "date": "16.FEB.1966",
+        "year": 1966,
+        "time": "11:00:00.035",
+        "site": "French Algeria, In Ecker (CSEM)",
+        "type": "underground, tunnel",
+        "purpose": "WR/P",
+        "yield": "min: 10, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0412,
+          24.0441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "series": "1966",
+        "shot": "Aldebaran",
+        "date": "2.JUL.1966",
+        "year": 1966,
+        "time": "15:34",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "atmospheric, water surface, barge",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 28, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "AN-52",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.0,
+          -21.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "series": "1966",
+        "shot": "Tamoure",
+        "date": "19.JUL.1966",
+        "year": 1966,
+        "time": "15:05",
+        "site": "PMU",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 50, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "AN-11",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "series": "1966",
+        "shot": "Ganymede",
+        "date": "21.JUL.1966",
+        "year": 1966,
+        "time": "12:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Colette zone",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "AN-22",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.91,
+          -21.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "series": "1966",
+        "shot": "Betelguese",
+        "date": "11.SEP.1966",
+        "year": 1966,
+        "time": "17:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 110, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "MR-31",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "series": "1966",
+        "shot": "Rigel",
+        "date": "24.SEP.1966",
+        "year": 1966,
+        "time": "17:00",
+        "site": "Pacific Test Site (CEP), Fangataufa, Fregate zone",
+        "type": "atmospheric, water surface, barge",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 125, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.73,
+          -22.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "series": "1966",
+        "shot": "Sirus",
+        "date": "4.OCT.1966",
+        "year": 1966,
+        "time": "21:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, water surface, barge",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 205, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.0,
+          -21.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "series": "1967",
+        "shot": "Altair",
+        "date": "5.JUN.1967",
+        "year": 1967,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 15, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.895,
+          -21.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "series": "1967",
+        "shot": "Antares",
+        "date": "27.JUN.1967",
+        "year": 1967,
+        "time": "18:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 120, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.0,
+          -21.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "series": "1967",
+        "shot": "Arcturus",
+        "date": "2.JUL.1967",
+        "year": 1967,
+        "time": "17:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, water surface, barge",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 22, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.892,
+          -21.795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "series": "1968",
+        "shot": "Capella",
+        "date": "7.JUL.1968",
+        "year": 1968,
+        "time": "22:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 115, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "series": "1968",
+        "shot": "Castor",
+        "date": "15.JUL.1968",
+        "year": 1968,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 450, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "MR-41",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "series": "1968",
+        "shot": "Pollux",
+        "date": "3.AUG.1968",
+        "year": 1968,
+        "time": "21:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 150, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "MR-41",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "series": "1968",
+        "shot": "Canopus",
+        "date": "24.AUG.1968",
+        "year": 1968,
+        "time": "18:30:00.5",
+        "site": "Pacific Test Site (CEP), Fangataufa, Fregate zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 2600, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.644,
+          -22.228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "series": "1968",
+        "shot": "Procyon",
+        "date": "8.SEP.1968",
+        "year": 1968,
+        "time": "19:00:01",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 1280, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.975,
+          -21.821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "series": "1970",
+        "shot": "Andromede",
+        "date": "15.MAY.1970",
+        "year": 1970,
+        "time": "18:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 13, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "series": "1970",
+        "shot": "Cassiopee",
+        "date": "22.MAY.1970",
+        "year": 1970,
+        "time": "18:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 224, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "series": "1970",
+        "shot": "Dragon",
+        "date": "30.MAY.1970",
+        "year": 1970,
+        "time": "17:59:59.9",
+        "site": "Pacific Test Site (CEP), Fangataufa, Fregate zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 945, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.606,
+          -22.309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "series": "1970",
+        "shot": "Eridan",
+        "date": "24.JUN.1970",
+        "year": 1970,
+        "time": "18:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 12, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "series": "1970",
+        "shot": "Licorne",
+        "date": "3.JUL.1970",
+        "year": 1970,
+        "time": "18:30:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 914, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.917,
+          -21.935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "series": "1970",
+        "shot": "Pegase",
+        "date": "27.JUL.1970",
+        "year": 1970,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,05, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "series": "1970",
+        "shot": "Orion",
+        "date": "2.AUG.1970",
+        "year": 1970,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Fangataufa, Fregate zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 72, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.893,
+          -21.786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "series": "1970",
+        "shot": "Toucan",
+        "date": "6.AUG.1970",
+        "year": 1970,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 594, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "series": "1971",
+        "shot": "Dione",
+        "date": "5.JUN.1971",
+        "year": 1971,
+        "time": "19:15",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 34, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "AN-51",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "series": "1971",
+        "shot": "Encelade",
+        "date": "12.JUN.1971",
+        "year": 1971,
+        "time": "19:14:57.3",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 440, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "MR-41",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.2,
+          -23.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "series": "1971",
+        "shot": "Japet",
+        "date": "4.JUL.1971",
+        "year": 1971,
+        "time": "21:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 9, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "series": "1971",
+        "shot": "Phoebe",
+        "date": "8.AUG.1971",
+        "year": 1971,
+        "time": "18:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "series": "1971",
+        "shot": "Rhea",
+        "date": "14.AUG.1971",
+        "year": 1971,
+        "time": "19:00:00.8",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 955, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.976,
+          -21.823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "series": "1972",
+        "shot": "Umbriel",
+        "date": "25.JUN.1972",
+        "year": 1972,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,5, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "series": "1972",
+        "shot": "Titania",
+        "date": "30.JUN.1972",
+        "year": 1972,
+        "time": "18:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "series": "1972",
+        "shot": "Oberon",
+        "date": "27.JUL.1972",
+        "year": 1972,
+        "time": "18:40",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "series": "1972",
+        "shot": "Ariel",
+        "date": "31.JUL.1972",
+        "year": 1972,
+        "time": "22:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Colette zone",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,001, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.91,
+          -21.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "series": "1973",
+        "shot": "Euterpe",
+        "date": "21.JUL.1973",
+        "year": 1973,
+        "time": "18:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 11, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "series": "1973",
+        "shot": "Melpomene",
+        "date": "28.JUL.1973",
+        "year": 1973,
+        "time": "23:06",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,05, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "series": "1973",
+        "shot": "Pallas",
+        "date": "18.AUG.1973",
+        "year": 1973,
+        "time": "18:15",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "series": "1973",
+        "shot": "Parthenope",
+        "date": "24.AUG.1973",
+        "year": 1973,
+        "time": "18:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0,2, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "series": "1973",
+        "shot": "Tamara",
+        "date": "28.AUG.1973",
+        "year": 1973,
+        "time": "18:30",
+        "site": "PMU",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 6, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "AN-52",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "series": "1973",
+        "shot": "Vesta",
+        "date": "13.SEP.1973",
+        "year": 1973,
+        "time": "15:42",
+        "site": "Pacific Test Site (CEP), Mururoa, Colette zone",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.91,
+          -21.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "series": "1974",
+        "shot": "Capricorne",
+        "date": "16.JUN.1974",
+        "year": 1974,
+        "time": "17:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-70?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "series": "1974",
+        "shot": "Belier",
+        "date": "1.JUL.1974",
+        "year": 1974,
+        "time": "17:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Colette zone",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.91,
+          -21.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "series": "1974",
+        "shot": "Gemeaux",
+        "date": "7.JUL.1974",
+        "year": 1974,
+        "time": "23:15",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 150, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-70?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "series": "1974",
+        "shot": "Centaure",
+        "date": "17.JUL.1974",
+        "year": 1974,
+        "time": "17:00",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 4, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-80?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "series": "1974",
+        "shot": "Maquis",
+        "date": "25.JUL.1974",
+        "year": 1974,
+        "time": "17:30",
+        "site": "PMU",
+        "type": "atmospheric, airdrop",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 8, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "AN-52",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "series": "1974",
+        "shot": "Persee",
+        "date": "28.JUL.1974",
+        "year": 1974,
+        "time": "17:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Colette zone",
+        "type": "AS",
+        "purpose": "safety experiment",
+        "yield": "min: 0,001, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.91,
+          -21.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "series": "1974",
+        "shot": "Scorpion",
+        "date": "14.AUG.1974",
+        "year": 1974,
+        "time": "00:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 96, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "series": "1974",
+        "shot": "Taurue",
+        "date": "24.AUG.1974",
+        "year": 1974,
+        "time": "23:45",
+        "site": "Pacific Test Site (CEP), Mururoa, Denise zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 14, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "series": "1974",
+        "shot": "Verseau",
+        "date": "14.SEP.1974",
+        "year": 1974,
+        "time": "23:30",
+        "site": "Pacific Test Site (CEP), Mururoa, Dindon zone",
+        "type": "atmospheric, balloon",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 332, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "TN-60?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.01,
+          -21.871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "series": "1975",
+        "shot": "Achille",
+        "date": "5.JUN.1975",
+        "year": 1975,
+        "time": "18:15",
+        "site": "Pacific Test Site (CEP), Fangataufa, rim, area 1 (southern rim)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.74,
+          -22.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "series": "1975",
+        "shot": "Hector",
+        "date": "26.NOV.1975",
+        "year": 1975,
+        "time": "00:48",
+        "site": "Pacific Test Site (CEP), Fangataufa, rim, area 1 (southern rim)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 10.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.74,
+          -22.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "series": "1976",
+        "shot": "Patrocle",
+        "date": "3.APR.1976",
+        "year": 1976,
+        "time": "17:07",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "series": "1976",
+        "shot": "Menelas",
+        "date": "11.JUL.1976",
+        "year": 1976,
+        "time": "00:30:00.5",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.786,
+          -21.863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "series": "1976",
+        "shot": "Calypso",
+        "date": "22.JUL.1976",
+        "year": 1976,
+        "time": "19:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "series": "1976",
+        "shot": "Ulysse A",
+        "date": "30.OCT.1976",
+        "year": 1976,
+        "time": "22:59:59",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "series": "1976",
+        "shot": "Astanax",
+        "date": "5.DEC.1976",
+        "year": 1976,
+        "time": "23:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "series": "1977",
+        "shot": "Ulysse B",
+        "date": "19.FEB.1977",
+        "year": 1977,
+        "time": "23:30:00.4",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.848,
+          -21.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "series": "1977",
+        "shot": "Nestor",
+        "date": "19.MAR.1977",
+        "year": 1977,
+        "time": "23:00:59.9",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.92,
+          -21.887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "series": "1977",
+        "shot": "Oedipe",
+        "date": "2.APR.1977",
+        "year": 1977,
+        "time": "23:30:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "series": "1977",
+        "shot": "Andromaque",
+        "date": "28.JUN.1977",
+        "year": 1977,
+        "time": "18:15",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "series": "1977",
+        "shot": "Ajax",
+        "date": "6.JUL.1977",
+        "year": 1977,
+        "time": "22:59:58.52",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.96,
+          -21.783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "series": "1977",
+        "shot": "Clytemnestre",
+        "date": "12.JUL.1977",
+        "year": 1977,
+        "time": "23:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "series": "1977",
+        "shot": "Oreste",
+        "date": "12.NOV.1977",
+        "year": 1977,
+        "time": "01:30:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "series": "1977",
+        "shot": "Enee",
+        "date": "24.NOV.1977",
+        "year": 1977,
+        "time": "16:59:59.9",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.886,
+          -21.884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "series": "1977",
+        "shot": "Laocoon",
+        "date": "17.DEC.1977",
+        "year": 1977,
+        "time": "22:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "series": "1978",
+        "shot": "Polypheme",
+        "date": "27.FEB.1978",
+        "year": 1978,
+        "time": "23:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "series": "1978",
+        "shot": "Pylade",
+        "date": "22.MAR.1978",
+        "year": 1978,
+        "time": "17:30:00.5",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.934,
+          -21.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "series": "1978",
+        "shot": "Hecube",
+        "date": "25.MAR.1978",
+        "year": 1978,
+        "time": "17:30:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "series": "1978",
+        "shot": "Xanthois",
+        "date": "1.JUL.1978",
+        "year": 1978,
+        "time": "17:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "series": "1978",
+        "shot": "Ares",
+        "date": "19.JUL.1978",
+        "year": 1978,
+        "time": "18:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "series": "1978",
+        "shot": "Idomenee",
+        "date": "26.JUL.1978",
+        "year": 1978,
+        "time": "23:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "series": "1978",
+        "shot": "Schedios",
+        "date": "2.NOV.1978",
+        "year": 1978,
+        "time": "18:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "series": "1978",
+        "shot": "Aphrodite",
+        "date": "14.NOV.1978",
+        "year": 1978,
+        "time": "18:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "series": "1978",
+        "shot": "Priam",
+        "date": "30.NOV.1978",
+        "year": 1978,
+        "time": "17:31:58.48",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.95,
+          -21.868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "series": "1978",
+        "shot": "Eteocle",
+        "date": "17.DEC.1978",
+        "year": 1978,
+        "time": "18:04:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "series": "1978",
+        "shot": "Eumee",
+        "date": "19.DEC.1978",
+        "year": 1978,
+        "time": "16:57:01.5",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.934,
+          -21.768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "series": "1979",
+        "shot": "Penthesilee",
+        "date": "1.MAR.1979",
+        "year": 1979,
+        "time": "17:24:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "series": "1979",
+        "shot": "Philoctete",
+        "date": "9.MAR.1979",
+        "year": 1979,
+        "time": "16:37:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "series": "1979",
+        "shot": "Agapenor",
+        "date": "24.MAR.1979",
+        "year": 1979,
+        "time": "16:28:00.4",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.933,
+          -21.806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "series": "1979",
+        "shot": "Polydore",
+        "date": "4.APR.1979",
+        "year": 1979,
+        "time": "18:07:00.5",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.702,
+          -21.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "series": "1979",
+        "shot": "Pyrrhos",
+        "date": "18.JUN.1979",
+        "year": 1979,
+        "time": "23:27:00.7",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.809,
+          -21.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "series": "1979",
+        "shot": "Egisthe",
+        "date": "29.JUN.1979",
+        "year": 1979,
+        "time": "18:56:00.2",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.903,
+          -21.818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "series": "1979",
+        "shot": "Tydee",
+        "date": "25.JUL.1979",
+        "year": 1979,
+        "time": "17:57:00",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.94,
+          -21.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "series": "1979",
+        "shot": "Palamede",
+        "date": "28.JUL.1979",
+        "year": 1979,
+        "time": "19:56:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.812,
+          -21.809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "series": "1979",
+        "shot": "Chrysotemis",
+        "date": "19.NOV.1979",
+        "year": 1979,
+        "time": "17:53:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "series": "1979",
+        "shot": "Atree",
+        "date": "22.NOV.1979",
+        "year": 1979,
+        "time": "19:14:13",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "series": "1980",
+        "shot": "Thyetse",
+        "date": "23.FEB.1980",
+        "year": 1980,
+        "time": "18:03:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "series": "1980",
+        "shot": "Adraste",
+        "date": "3.MAR.1980",
+        "year": 1980,
+        "time": "17:56:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "series": "1980",
+        "shot": "Thesee",
+        "date": "23.MAR.1980",
+        "year": 1980,
+        "time": "19:36:58.49",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.939,
+          -21.861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "series": "1980",
+        "shot": "Boros",
+        "date": "1.APR.1980",
+        "year": 1980,
+        "time": "19:31:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.758,
+          -21.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "series": "1980",
+        "shot": "Pelpos",
+        "date": "4.APR.1980",
+        "year": 1980,
+        "time": "18:33:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.799,
+          -21.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "series": "1980",
+        "shot": "Eurypyle",
+        "date": "16.JUN.1980",
+        "year": 1980,
+        "time": "18:26:58.56",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.899,
+          -21.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "series": "1980",
+        "shot": "Ilus",
+        "date": "21.JUN.1980",
+        "year": 1980,
+        "time": "17:01:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "series": "1980",
+        "shot": "Chryses",
+        "date": "6.JUL.1980",
+        "year": 1980,
+        "time": "17:27:00.5",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.848,
+          -21.849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "series": "1980",
+        "shot": "Leda",
+        "date": "9.JUL.1980",
+        "year": 1980,
+        "time": "18:03",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "series": "1980",
+        "shot": "Asios",
+        "date": "19.JUL.1980",
+        "year": 1980,
+        "time": "23:46:58.51",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.934,
+          -21.861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "series": "1980",
+        "shot": "Laerte",
+        "date": "25.NOV.1980",
+        "year": 1980,
+        "time": "17:53:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "series": "1980",
+        "shot": "Diomede",
+        "date": "3.DEC.1980",
+        "year": 1980,
+        "time": "17:32:58.48",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "TN-70",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.939,
+          -21.875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "series": "1981",
+        "shot": "Broteas",
+        "date": "27.FEB.1981",
+        "year": 1981,
+        "time": "23:28:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "series": "1981",
+        "shot": "Tyro",
+        "date": "6.MAR.1981",
+        "year": 1981,
+        "time": "17:27:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "series": "1981",
+        "shot": "Iphicles",
+        "date": "28.MAR.1981",
+        "year": 1981,
+        "time": "17:23:00.6",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.678,
+          -21.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "series": "1981",
+        "shot": "Clymene",
+        "date": "10.APR.1981",
+        "year": 1981,
+        "time": "17:57:00.5",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.946,
+          -21.795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "series": "1981",
+        "shot": "Lyncee",
+        "date": "8.JUL.1981",
+        "year": 1981,
+        "time": "22:23:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.046,
+          -21.791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "series": "1981",
+        "shot": "Eryx",
+        "date": "11.JUL.1981",
+        "year": 1981,
+        "time": "17:17:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "series": "1981",
+        "shot": "Theras",
+        "date": "18.JUL.1981",
+        "year": 1981,
+        "time": "17:43:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "series": "1981",
+        "shot": "Agenor",
+        "date": "3.AUG.1981",
+        "year": 1981,
+        "time": "18:32:58.58",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.903,
+          -21.824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "series": "1981",
+        "shot": "Leto",
+        "date": "6.NOV.1981",
+        "year": 1981,
+        "time": "17:03:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "series": "1981",
+        "shot": "Procles",
+        "date": "11.NOV.1981",
+        "year": 1981,
+        "time": "17:07:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.954,
+          -21.856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "series": "1981",
+        "shot": "Cilix",
+        "date": "5.DEC.1981",
+        "year": 1981,
+        "time": "16:58:01.1",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.933,
+          -21.685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "series": "1981",
+        "shot": "Cadmos",
+        "date": "8.DEC.1981",
+        "year": 1981,
+        "time": "16:47:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "Unknown",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.927,
+          -21.797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "series": "1982",
+        "shot": "Aerope",
+        "date": "20.FEB.1982",
+        "year": 1982,
+        "time": "17:33:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "series": "1982",
+        "shot": "Deiphobe",
+        "date": "24.FEB.1982",
+        "year": 1982,
+        "time": "18:15:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "series": "1982",
+        "shot": "Rhesos",
+        "date": "20.MAR.1982",
+        "year": 1982,
+        "time": "17:03:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.868,
+          -21.846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "series": "1982",
+        "shot": "Evevos",
+        "date": "23.MAR.1982",
+        "year": 1982,
+        "time": "17:07:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "series": "1982",
+        "shot": "Aeson",
+        "date": "31.MAR.1982",
+        "year": 1982,
+        "time": "16:30",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "series": "1982",
+        "shot": "Laodice",
+        "date": "27.JUN.1982",
+        "year": 1982,
+        "time": "17:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "series": "1982",
+        "shot": "Antilokos",
+        "date": "1.JUL.1982",
+        "year": 1982,
+        "time": "17:02:00.2",
+        "site": "PMU-R3",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.946,
+          -21.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "series": "1982",
+        "shot": "Pitane",
+        "date": "21.JUL.1982",
+        "year": 1982,
+        "time": "17:13:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "series": "1982",
+        "shot": "Laios",
+        "date": "25.JUL.1982",
+        "year": 1982,
+        "time": "18:02:00.0",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.896,
+          -21.836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134,
+        "series": "1982",
+        "shot": "Procris",
+        "date": "27.NOV.1982",
+        "year": 1982,
+        "time": "17:02:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135,
+        "series": "1983",
+        "shot": "Eurytos",
+        "date": "19.APR.1983",
+        "year": 1983,
+        "time": "18:53:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.872,
+          -21.819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136,
+        "series": "1983",
+        "shot": "Automedon",
+        "date": "25.APR.1983",
+        "year": 1983,
+        "time": "17:32:59",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137,
+        "series": "1983",
+        "shot": "Cinyras",
+        "date": "25.MAY.1983",
+        "year": 1983,
+        "time": "17:31:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.917,
+          -21.861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138,
+        "series": "1983",
+        "shot": "Burisis",
+        "date": "18.JUN.1983",
+        "year": 1983,
+        "time": "17:31:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139,
+        "series": "1983",
+        "shot": "Oxylos",
+        "date": "28.JUN.1983",
+        "year": 1983,
+        "time": "17:46:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.871,
+          -21.767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 140,
+        "series": "1983",
+        "shot": "Battos",
+        "date": "20.JUL.1983",
+        "year": 1983,
+        "time": "20:30:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 141,
+        "series": "1983",
+        "shot": "Carnabon",
+        "date": "4.AUG.1983",
+        "year": 1983,
+        "time": "17:14:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.829,
+          -21.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142,
+        "series": "1983",
+        "shot": "Linos",
+        "date": "3.DEC.1983",
+        "year": 1983,
+        "time": "16:58:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+        "series": "1983",
+        "shot": "Gyges",
+        "date": "7.DEC.1983",
+        "year": 1983,
+        "time": "17:28:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.928,
+          -21.829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144,
+        "series": "1984",
+        "shot": "Demophon",
+        "date": "8.MAY.1984",
+        "year": 1984,
+        "time": "17:26:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145,
+        "series": "1984",
+        "shot": "Midas",
+        "date": "12.MAY.1984",
+        "year": 1984,
+        "time": "17:31:00.0",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.901,
+          -21.863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146,
+        "series": "1984",
+        "shot": "Aristee",
+        "date": "12.JUN.1984",
+        "year": 1984,
+        "time": "17:16:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 147,
+        "series": "1984",
+        "shot": "Echemos",
+        "date": "16.JUN.1984",
+        "year": 1984,
+        "time": "17:44:00.0",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.88,
+          -21.849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148,
+        "series": "1984",
+        "shot": "Machaon",
+        "date": "27.OCT.1984",
+        "year": 1984,
+        "time": "17:16:00.4",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.477,
+          -22.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 149,
+        "series": "1984",
+        "shot": "Acaste",
+        "date": "2.NOV.1984",
+        "year": 1984,
+        "time": "20:45:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.92,
+          -21.857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 150,
+        "series": "1984",
+        "shot": "Miletos",
+        "date": "1.DEC.1984",
+        "year": 1984,
+        "time": "16:51:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 151,
+        "series": "1984",
+        "shot": "Memnon",
+        "date": "6.DEC.1984",
+        "year": 1984,
+        "time": "17:29:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.89,
+          -21.837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152,
+        "series": "1985",
+        "shot": "Cercyon",
+        "date": "30.APR.1985",
+        "year": 1985,
+        "time": "17:29:00.6",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.952,
+          -21.829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 153,
+        "series": "1985",
+        "shot": "Nisos",
+        "date": "8.MAY.1985",
+        "year": 1985,
+        "time": "20:28:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.981,
+          -21.831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 154,
+        "series": "1985",
+        "shot": "Talaos",
+        "date": "3.JUN.1985",
+        "year": 1985,
+        "time": "17:30:00.6",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.897,
+          -21.816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 155,
+        "series": "1985",
+        "shot": "Erginos",
+        "date": "7.JUN.1985",
+        "year": 1985,
+        "time": "17:40:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156,
+        "series": "1985",
+        "shot": "Hero",
+        "date": "24.OCT.1985",
+        "year": 1985,
+        "time": "17:50:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "TN-81?",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 157,
+        "series": "1985",
+        "shot": "Codros",
+        "date": "26.OCT.1985",
+        "year": 1985,
+        "time": "16:35:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.815,
+          -21.849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158,
+        "series": "1985",
+        "shot": "Zetes",
+        "date": "24.NOV.1985",
+        "year": 1985,
+        "time": "16:01:00.7",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.781,
+          -21.802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159,
+        "series": "1985",
+        "shot": "Megaree",
+        "date": "26.NOV.1985",
+        "year": 1985,
+        "time": "17:42:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Hades",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.899,
+          -21.856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160,
+        "series": "1986",
+        "shot": "Hyllos",
+        "date": "26.APR.1986",
+        "year": 1986,
+        "time": "17:02:00.7",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.941,
+          -21.725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161,
+        "series": "1986",
+        "shot": "Ceto",
+        "date": "6.MAY.1986",
+        "year": 1986,
+        "time": "16:58:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162,
+        "series": "1986",
+        "shot": "Sthenelos",
+        "date": "27.MAY.1986",
+        "year": 1986,
+        "time": "17:15:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163,
+        "series": "1986",
+        "shot": "Galatee",
+        "date": "30.MAY.1986",
+        "year": 1986,
+        "time": "17:25:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.949,
+          -21.862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 164,
+        "series": "1986",
+        "shot": "Hesione",
+        "date": "10.NOV.1986",
+        "year": 1986,
+        "time": "16:58:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165,
+        "series": "1986",
+        "shot": "Naupolis",
+        "date": "12.NOV.1986",
+        "year": 1986,
+        "time": "17:02:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.927,
+          -21.843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166,
+        "series": "1986",
+        "shot": "Peneleos",
+        "date": "6.DEC.1986",
+        "year": 1986,
+        "time": "17:10:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167,
+        "series": "1986",
+        "shot": "Circe",
+        "date": "10.DEC.1986",
+        "year": 1986,
+        "time": "17:15:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.892,
+          -21.833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168,
+        "series": "1987",
+        "shot": "Jocaste",
+        "date": "5.MAY.1987",
+        "year": 1987,
+        "time": "16:58:01.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.581,
+          -21.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 169,
+        "series": "1987",
+        "shot": "Lycomede",
+        "date": "20.MAY.1987",
+        "year": 1987,
+        "time": "17:05:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.913,
+          -21.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+        "series": "1987",
+        "shot": "Dirce",
+        "date": "6.JUN.1987",
+        "year": 1987,
+        "time": "18:00:00.7",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.874,
+          -21.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171,
+        "series": "1987",
+        "shot": "Iphpitos",
+        "date": "21.JUN.1987",
+        "year": 1987,
+        "time": "17:55:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.891,
+          -21.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172,
+        "series": "1987",
+        "shot": "Helenos",
+        "date": "23.OCT.1987",
+        "year": 1987,
+        "time": "16:50:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.907,
+          -21.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 173,
+        "series": "1987",
+        "shot": "Pasiphae",
+        "date": "5.NOV.1987",
+        "year": 1987,
+        "time": "17:30:00.4",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.874,
+          -21.791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 174,
+        "series": "1987",
+        "shot": "Pelee",
+        "date": "19.NOV.1987",
+        "year": 1987,
+        "time": "16:31:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.941,
+          -21.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "series": "1987",
+        "shot": "Danae",
+        "date": "29.NOV.1987",
+        "year": 1987,
+        "time": "17:59:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 176,
+        "series": "1988",
+        "shot": "Nelee",
+        "date": "11.MAY.1988",
+        "year": 1988,
+        "time": "17:00:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.945,
+          -21.833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 177,
+        "series": "1988",
+        "shot": "Niobe",
+        "date": "25.MAY.1988",
+        "year": 1988,
+        "time": "17:01:00.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.961,
+          -21.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "series": "1988",
+        "shot": "Antigone",
+        "date": "16.JUN.1988",
+        "year": 1988,
+        "time": "17:15:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.0,
+          -21.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 179,
+        "series": "1988",
+        "shot": "Dejanire",
+        "date": "23.JUN.1988",
+        "year": 1988,
+        "time": "17:31:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.911,
+          -21.846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 180,
+        "series": "1988",
+        "shot": "Acrisios",
+        "date": "25.OCT.1988",
+        "year": 1988,
+        "time": "17:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 181,
+        "series": "1988",
+        "shot": "Thrasymedes",
+        "date": "5.NOV.1988",
+        "year": 1988,
+        "time": "16:30:00.4",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.987,
+          -21.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 182,
+        "series": "1988",
+        "shot": "Pheres",
+        "date": "23.NOV.1988",
+        "year": 1988,
+        "time": "17:01:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.954,
+          -21.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 183,
+        "series": "1988",
+        "shot": "Cycnos",
+        "date": "30.NOV.1988",
+        "year": 1988,
+        "time": "17:55:00.0",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.74,
+          -22.233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184,
+        "series": "1989",
+        "shot": "Epeios",
+        "date": "11.MAY.1989",
+        "year": 1989,
+        "time": "16:45:00.5",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.884,
+          -21.812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185,
+        "series": "1989",
+        "shot": "Tecmessa",
+        "date": "20.MAY.1989",
+        "year": 1989,
+        "time": "17:59:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+        "series": "1989",
+        "shot": "Nyctee",
+        "date": "3.JUN.1989",
+        "year": 1989,
+        "time": "17:30:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.922,
+          -21.842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 187,
+        "series": "1989",
+        "shot": "Cyzicos",
+        "date": "10.JUN.1989",
+        "year": 1989,
+        "time": "17:30:00.1",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.721,
+          -22.217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 188,
+        "series": "1989",
+        "shot": "Hypsipyle",
+        "date": "24.OCT.1989",
+        "year": 1989,
+        "time": "16:30:00.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.912,
+          -21.852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 189,
+        "series": "1989",
+        "shot": "Erigone",
+        "date": "31.OCT.1989",
+        "year": 1989,
+        "time": "16:57:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.855,
+          -21.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 190,
+        "series": "1989",
+        "shot": "Tros",
+        "date": "20.NOV.1989",
+        "year": 1989,
+        "time": "17:29:00.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.884,
+          -21.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 191,
+        "series": "1989",
+        "shot": "Daunus",
+        "date": "25.NOV.1989",
+        "year": 1989,
+        "time": "18:00",
+        "site": "Pacific Test Site (CEP), Mururoa, rim (areas 1, 2, 3, 4)",
+        "type": "underground, shaft",
+        "purpose": "safety experiment",
+        "yield": "min: 0, max: Unknown",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 192,
+        "series": "1989",
+        "shot": "Lycos",
+        "date": "27.NOV.1989",
+        "year": 1989,
+        "time": "17:00:00.0",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.722,
+          -22.251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193,
+        "series": "1990",
+        "shot": "Telephe",
+        "date": "2.JUN.1990",
+        "year": 1990,
+        "time": "17:29:58.5",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.918,
+          -21.877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 194,
+        "series": "1990",
+        "shot": "Megapentes",
+        "date": "7.JUN.1990",
+        "year": 1990,
+        "time": "17:30:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 195,
+        "series": "1990",
+        "shot": "Cypselos",
+        "date": "26.JUN.1990",
+        "year": 1990,
+        "time": "17:59:58.2",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.841,
+          -22.215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 196,
+        "series": "1990",
+        "shot": "Anticlee",
+        "date": "4.JUL.1990",
+        "year": 1990,
+        "time": "17:59:58.6",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.042,
+          -21.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 197,
+        "series": "1990",
+        "shot": "Hyrtacos",
+        "date": "14.NOV.1990",
+        "year": 1990,
+        "time": "18:11:58.3",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.805,
+          -22.258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 198,
+        "series": "1990",
+        "shot": "Thoas",
+        "date": "21.NOV.1990",
+        "year": 1990,
+        "time": "16:59:58.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.967,
+          -21.936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 199,
+        "series": "1991",
+        "shot": "Melanippe",
+        "date": "7.MAY.1991",
+        "year": 1991,
+        "time": "17:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 200,
+        "series": "1991",
+        "shot": "Alcinos",
+        "date": "18.MAY.1991",
+        "year": 1991,
+        "time": "17:14:58.5",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.014,
+          -21.832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "series": "1991",
+        "shot": "Periclymentos",
+        "date": "29.MAY.1991",
+        "year": 1991,
+        "time": "18:59:58.2",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.794,
+          -22.256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "series": "1991",
+        "shot": "Pitthee",
+        "date": "14.JUN.1991",
+        "year": 1991,
+        "time": "17:59:57.8",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.988,
+          -21.944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "series": "1991",
+        "shot": "Coronis",
+        "date": "5.JUL.1991",
+        "year": 1991,
+        "time": "18:00:00",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 0, max: 5.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.9,
+          -21.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "series": "1991",
+        "shot": "Lycurgue",
+        "date": "15.JUL.1991",
+        "year": 1991,
+        "time": "18:09:58.3",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.963,
+          -21.877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 205,
+        "series": "1995",
+        "shot": "Thetis",
+        "date": "5.SEP.1995",
+        "year": 1995,
+        "time": "21:29:58.4",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 5, max: 20.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.84,
+          -21.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 206,
+        "series": "1995",
+        "shot": "Ploutos",
+        "date": "1.OCT.1995",
+        "year": 1995,
+        "time": "23:29:58",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 80, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "TN-75",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.74,
+          -22.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 207,
+        "series": "1995",
+        "shot": "Aepytos",
+        "date": "27.OCT.1995",
+        "year": 1995,
+        "time": "21:59:58.2",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "TN-75",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.98,
+          -21.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 208,
+        "series": "1995",
+        "shot": "Phegee",
+        "date": "21.NOV.1995",
+        "year": 1995,
+        "time": "21:29:58.1",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.03,
+          -21.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 209,
+        "series": "1995",
+        "shot": "Themisto",
+        "date": "27.DEC.1995",
+        "year": 1995,
+        "time": "21:29:58",
+        "site": "Pacific Test Site (CEP), Mururoa, lagoon (areas 5, 6, 7)",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 80.0",
+        "crater": "Unknown",
+        "warhead": "Unknown",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.97,
+          -21.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 210,
+        "series": "1996",
+        "shot": "Xouthos",
+        "date": "27.JAN.1996",
+        "year": 1996,
+        "time": "21:29:57.8",
+        "site": "Pacific Test Site (CEP), Fangataufa, lagoon, area 2",
+        "type": "underground, shaft",
+        "purpose": "nuclear weapons related",
+        "yield": "min: 20, max: 150.0",
+        "crater": "Unknown",
+        "warhead": "TN-75",
+        "sponsor": "Unknown",
+        "impact": "test",
+        "country": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.82,
+          -22.24
+        ]
+      }
+    }
+  ]
+}
