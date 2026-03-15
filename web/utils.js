@@ -38,6 +38,18 @@ function checkYield(str) {
 }
 
 
+function hasValidCoordinates(feature) { // Функция проверки наличия и правильности координат
+    let coords = feature.geometry && feature.geometry.coordinates;
+    if (!coords || coords.length < 2) {
+        return false;
+    }
+    let lon = parseFloat(coords[0]),
+        lat = parseFloat(coords[1]);
+
+    return typeof lon === 'number' && typeof lat === 'number' && isFinite(lon) && isFinite(lat);
+}
+
+
 
 var isize = [25, 25]
 var iconUSSR = L.icon({

@@ -20,18 +20,12 @@ function switchTileLayer(name) { // Функция переключение ти
         maxZoom: layer.maxZoom || 19,
         minZoom: 2
     }).addTo(map);
-}
 
-function hasValidCoordinates(feature) { // Функция проверки наличия и правильности координат
-    let coords = feature.geometry && feature.geometry.coordinates;
-    if (!coords || coords.length < 2) {
-        return false;
+    if (map.getZoom() > layer.maxZoom) {
+        map.setZoom(layer.maxZoom);
     }
-    let lon = parseFloat(coords[0]),
-        lat = parseFloat(coords[1]);
-
-    return typeof lon === 'number' && typeof lat === 'number' && isFinite(lon) && isFinite(lat);
 }
+
 
 function createMap() { // Функция создания карты
     map = L.map('map').setView([0, 0], 2);
@@ -70,53 +64,51 @@ function renderMarkers(features) { // Функция отображения ма
     }
 
     let validFeatures = features.filter(hasValidCoordinates);
+    const clusterGroups = {};
 
-    currentLayer = L.geoJSON({type: 'FeatureCollection', features: validFeatures}, {
-        pointToLayer: function (feature, latlng) {
-            let icon;
+    currentLayer = L.layerGroup();
 
-            switch (feature.properties.country) {
-                case 'USSR':
-                    icon = iconUSSR;
-                    break;
-                case 'USA':
-                    icon = iconUSA;
-                    break;
-                case 'UK':
-                    icon = iconUK;
-                    break;
-                case 'FR':
-                    icon = iconFR;
-                    break;
-                case 'PRC':
-                    icon = iconPRC;
-                    break;
-                case 'India':
-                    icon = iconIndia;
-                    break;
-                case 'Pakistan':
-                    icon = iconPakistan;
-                    break;
-                case 'North Korea':
-                    icon = iconNKorea;
-                    break;
-                case 'Unknown (Republic of South Africa?)':
-                    icon = iconSAfrica;
-                    break;
-                default:
-                    icon = iconNone;
-                    break;
-            }
+    validFeatures.forEach(feature => {
+        const country = feature.properties.country || "Unknown";
 
-            return L.marker(latlng, {
-                icon: icon,
-                title: `${feature.properties.country} / ${feature.properties.site}`
+        if (!clusterGroups[country]) {
+            clusterGroups[country] = L.markerClusterGroup({
+                maxClusterRadius: 40
             });
-        },
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(checkStrikeDetails(feature));
+            
+            clusterGroups[country].on('clustermouseover', function (map_) {
+                map_.layer.bindTooltip(country, { sticky: true }).openTooltip();
+            });
+
+            clusterGroups[country].on('clustermouseout', function (map_) {
+                map_.layer.unbindTooltip();
+            });
+
+            currentLayer.addLayer(clusterGroups[country]);
         }
-    }).addTo(map);
+        
+        const latlng = L.latLng(
+            feature.geometry.coordinates[1],
+            feature.geometry.coordinates[0]
+        )
+
+        const icons = {
+            'USSR': iconUSSR, 'USA': iconUSA, 'UK': iconUK,
+            'FR': iconFR, 'PRC': iconPRC, 'India': iconIndia,
+            'Pakistan': iconPakistan, 'North Korea': iconNKorea,
+            'Unknown (Republic of South Africa?)': iconSAfrica
+            };
+        const icon = icons[country] || iconNone;
+        
+        const marker = L.marker(latlng, {
+            icon: icon,
+            title: `${country} / ${feature.properties.site}`
+        }).bindPopup(checkStrikeDetails(feature));
+
+        clusterGroups[country].addLayer(marker);
+    });
+
+    currentLayer.addTo(map);
 
     map.setZoom(2);
 }
@@ -141,7 +133,6 @@ function applyFilters() { // Функция применения фильтро�
                 return false;
             }
         }
-
 
         return true;
     });
