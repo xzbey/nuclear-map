@@ -1,54 +1,9 @@
-var iconNuke = L.icon({
-    iconUrl: 'icons/nuke.png',
-    iconSize: [64, 64]
-}),
-    iconTestNuke = L.icon({
-    iconUrl: 'icons/test_nuke.png',
-    iconSize: [32, 32]
-}),
-    iconNone = L.icon({
-    iconUrl: 'icons/none.png',
-    iconSize: [32, 32]
-});
-
 var allFeatures = [],
     map,
     downloadingCount = 0,
     currentLayer = null,
     tyleLayer = null;
 
-var name = ' contributors | <a href="https://github.com/xzbey/nuclear-map">/xzbey</a>';
-var tyleLayers = {
-    'osm': {
-        url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' + name
-    },
-    /*'google': {
-        url: 'https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}',
-        attribution: '&copy; Google Maps' + name
-    },
-    'google satellite': {
-        url: 'https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',
-        attribution: '&copy; Google Satellite' + name
-    },
-    'yandex': {
-        url: 'https://core-renderer-tiles.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}',
-        attribution: '&copy; Яндекс Карты' + name
-    },*/ 
-    // Они под лицензией, но если что можно включить
-    'dark': {
-        url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-        attribution: '&copy; <a href="https://carto.com/">CARTO</a>' + name
-    },
-    'satellite': {
-        url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-        attribution: '&copy; Esri Satellite' + name
-    },
-    'topo': {
-        url: 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
-        attribution: '&copy; OpenTopoMap' + name
-    }
-};
 
 function switchTileLayer(name) { // Функция переключение типа карты по названию (console.log('*'))
     let key = name.toLowerCase().trim(),
@@ -62,7 +17,7 @@ function switchTileLayer(name) { // Функция переключение ти
 
     tyleLayer = L.tileLayer(layer.url, {
         attribution: layer.attribution,
-        maxZoom: 19,
+        maxZoom: layer.maxZoom || 19,
         minZoom: 2
     }).addTo(map);
 }
@@ -81,9 +36,10 @@ function hasValidCoordinates(feature) { // Функция проверки на�
 function createMap() { // Функция создания карты
     map = L.map('map').setView([0, 0], 2);
 
-    tyleLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | <a href="https://github.com/xzbey/nuclear-map">/xzbey</a>',
-        maxZoom: 19,
+    layer = tyleLayers["satellite"]
+    tyleLayer = L.tileLayer(layer.url, {
+        attribution: layer.attribution,
+        maxZoom: layer.maxZoom || 19,
         minZoom: 2
     }).addTo(map);
 
@@ -118,39 +74,64 @@ function renderMarkers(features) { // Функция отображения ма
     currentLayer = L.geoJSON({type: 'FeatureCollection', features: validFeatures}, {
         pointToLayer: function (feature, latlng) {
             let icon;
-            if (feature.properties.impact === 'strike') {
-                icon = iconNuke;
-            } else if (feature.properties.impact === 'test') {
-                icon = iconTestNuke;
-            } else {
-                icon = iconNone;
+
+            switch (feature.properties.country) {
+                case 'USSR':
+                    icon = iconUSSR;
+                    break;
+                case 'USA':
+                    icon = iconUSA;
+                    break;
+                case 'UK':
+                    icon = iconUK;
+                    break;
+                case 'FR':
+                    icon = iconFR;
+                    break;
+                case 'PRC':
+                    icon = iconPRC;
+                    break;
+                case 'India':
+                    icon = iconIndia;
+                    break;
+                case 'Pakistan':
+                    icon = iconPakistan;
+                    break;
+                case 'North Korea':
+                    icon = iconNKorea;
+                    break;
+                case 'Unknown (Republic of South Africa?)':
+                    icon = iconSAfrica;
+                    break;
+                default:
+                    icon = iconNone;
+                    break;
             }
+
             return L.marker(latlng, {
                 icon: icon,
                 title: `${feature.properties.country} / ${feature.properties.site}`
             });
         },
         onEachFeature: function (feature, layer) {
-            layer.bindPopup(`<b>Series: ${feature.properties.series} / Shot: ${feature.properties.shot}</b><br>
-                            Date: ${feature.properties.date} / Time: ${feature.properties.time}<br>
-                            Site: ${feature.properties.site}<br><br>
-                            Type: ${feature.properties.type}<br>
-                            Purpose: ${feature.properties.purpose}<br>
-                            Yield (kt): ${feature.properties.yield}<br>
-                            Crater (m): ${feature.properties.crater}<br>
-                            Warhead: ${feature.properties.warhead}<br>
-                            Sponsor: ${feature.properties.sponsor}<br><br>
-                            <i>Strike by: ${feature.properties.country} / Impact: ${feature.properties.impact}</i>`);
+            layer.bindPopup(checkStrikeDetails(feature));
         }
     }).addTo(map);
+
+    map.setZoom(2);
 }
 
 function applyFilters() { // Функция применения фильтров
     let selectedCountry = document.getElementById('country-filter').value,
-        selectedYear = parseInt(document.getElementById('yearSlider').value);
+        selectedYear = parseInt(document.getElementById('yearSlider').value),
+        selectedImpact = document.getElementById('strike-filter').value;
 
     let filtered = allFeatures.filter(feature => {
         if (selectedCountry !== 'All' && feature.properties.country !== selectedCountry) {
+            return false;
+        }
+
+        if (selectedImpact !== 'All' && feature.properties.impact !== selectedImpact) {
             return false;
         }
         
@@ -160,6 +141,8 @@ function applyFilters() { // Функция применения фильтро�
                 return false;
             }
         }
+
+
         return true;
     });
     renderMarkers(filtered);
@@ -187,6 +170,7 @@ function placeMarkers() { // Функция загрузки всех GeoJSON
 document.addEventListener('DOMContentLoaded', function () { // Установка обработчиков событий
     document.getElementById('country-filter').addEventListener('change', applyFilters);
     document.getElementById('yearSlider').addEventListener('input', applyFilters);
+    document.getElementById('strike-filter').addEventListener('change', applyFilters);
 });
 
 let originalConsoleLog = console.log; // Функция переключения типа карты (console.log('*'))

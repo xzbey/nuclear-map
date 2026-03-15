@@ -26,12 +26,49 @@
 .filters select {
     font: bold 14px Arial;
     border-radius: 5px;
+    cursor: pointer;
 }
 
-.year-filter {
+.filter-group {
     display: flex;
+    flex-direction: column;
+    gap: 4px;
     align-items: center;
-    gap: 8px;
+}
+
+.changing-maps {
+    position: absolute;
+    z-index: 1000;
+    
+    bottom: 10px;
+    left: 10px;
+
+    display: flex;
+    gap: 10px;
+}
+
+.changing-maps button {
+    font: bold 14px Arial;
+    padding: 12px 12px;
+    border-radius: 5px;
+    border: rgb(162, 162, 162) 2px solid;
+    background-color: white;
+    cursor: pointer;
+}
+
+.instruction button {
+    position: absolute;
+    z-index: 1000;
+    
+    top: 10px;
+    right: 10px;
+    
+    font: bold 14px Arial;
+    padding: 12px 12px;
+    border-radius: 5px;
+    border: rgb(162, 162, 162) 2px solid;
+    background-color: white;
+    cursor: pointer;
 }
 
 html, body {

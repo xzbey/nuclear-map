@@ -16,28 +16,52 @@
     <body>
 
         <div class="filters">
-            <select id="country-filter">
-                <option value="All">All</option>
-                <option value="USA">USA</option>
-                <option value="USSR">USSR</option>
-                <option value="UK">UK</option>
-                <option value="FR">France</option>
-                <option value="PRC">China</option>
-                <option value="India">India</option>
-                <option value="Pakistan">Pakistan</option>
-                <option value="North Korea">North Korea</option>
-                <option value="Unknown (Republic of South Africa?)">Unknown (Republic of South Africa?)</option>
-            </select>
-
-            <div class="year-filter">
+            <div class="filter-group">
+                <label for="country-filter">Country</label>
+                <select id="country-filter">
+                    <option value="All">All</option>
+                    <option value="USA">USA</option>
+                    <option value="USSR">USSR</option>
+                    <option value="UK">UK</option>
+                    <option value="FR">France</option>
+                    <option value="PRC">China</option>
+                    <option value="India">India</option>
+                    <option value="Pakistan">Pakistan</option>
+                    <option value="North Korea">North Korea</option>
+                    <option value="Unknown (Republic of South Africa?)">Unknown (Republic of South Africa?)</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="strike-filter">Impact</label>
+                <select id="strike-filter">
+                    <option value="All">All</option>
+                    <option value="strike">Strike</option>
+                    <option value="test">Test</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
                 <label>Year: <span id="yearValue">2009</span></label>
                 <input type="range" id="yearSlider" min="1944" max="2009" value="2009">
             </div>
         </div>
 
+        <div class="changing-maps">
+            <button onclick="switchTileLayer('satellite')">Satellite</button>
+            <button onclick="switchTileLayer('osm')">OSM</button>
+            <button onclick="switchTileLayer('dark')">Dark</button>
+            <button onclick="switchTileLayer('topo')">Topo</button>
+        </div>
+
+        <div class="instruction">
+            <button onclick="window.open('https://github.com/xzbey/nuclear-map', '_blank')">DETAILS</button>
+        </div>
+
         <div id="map"></div>
 
         <script src="scripts.js"></script>
+        <script src="utils.js"></script>
         <script>createMap();
                 placeMarkers();</script>
     </body>
