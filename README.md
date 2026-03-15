@@ -48,7 +48,7 @@
 * OpenStreetMap : `console.log('osm')`
 * CARTO Dark : `console.log('dark')`
 * Esri Satellite : `console.log('satellite')`
-* OpenTopoMap : `console.log('topo')`
+* OpenTopoMap : `console.log('topo')` **[Часто работает только с VPN]**
 * Google : `console.log('google')` **[Отключено - Лицензирована]**
 * Google Satellite : `console.log('google satellite')` **[Отключено - Лицензирована]**
 * Yandex : `console.log('yandex')` **[Отключено - Лицензирована]**
@@ -62,8 +62,8 @@
 
 Веб версия работает на сайте с помощью хостинга `Beget`. Ссылки на карту:
 * http://r96616oc.beget.tech/src/web/
-* http://xzbey-nuclear-map.ru/src/web
-* http://xzbey.ru/src/web
+* http://xzbey-nuclear-map.ru/src/web **[не работает]**
+* http://xzbey.ru/src/web **[не работает]**
 
 
 
