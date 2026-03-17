@@ -91,9 +91,7 @@ _Если какой-либо доп. информации нет - то она 
 *tg/xzbey*
 
 Веб версия работает на сайте с помощью хостинга `Beget`. Ссылки на карту:
-* http://r96616oc.beget.tech/src/web/
-* http://xzbey-nuclear-map.ru/src/web **[не работает]**
-* http://xzbey.ru/src/web **[не работает]**
+* http://r96616oc.beget.tech
 
 
 
