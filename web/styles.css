@@ -12,7 +12,8 @@
     left: 50px;
 
     background-color: white;
-    padding: 6px;
+    padding: 10px;
+    margin: 0px;
     border-radius: 5px;
     border: rgb(162, 162, 162) 2px solid;
 
@@ -49,7 +50,7 @@
 
 .changing-maps button {
     font: bold 14px Arial;
-    padding: 12px 12px;
+    padding: 20px 20px;
     border-radius: 5px;
     border: rgb(162, 162, 162) 2px solid;
     background-color: white;
@@ -64,11 +65,15 @@
     right: 10px;
     
     font: bold 14px Arial;
-    padding: 12px 12px;
+    padding: 20px 20px;
     border-radius: 5px;
     border: rgb(162, 162, 162) 2px solid;
     background-color: white;
     cursor: pointer;
+}
+
+button, .filters {
+    box-shadow: 0px 0px 10px lightblue;
 }
 
 html, body {
