@@ -53,7 +53,7 @@ function hasValidCoordinates(feature) { // Функция проверки на�
 
 var isize = [25, 25]
 var iconUSSR = L.icon({
-        iconUrl: 'icons/USSR.png',
+        iconUrl: 'icons/RUSSIA.png',
         iconSize: isize
     }),
     iconUSA = L.icon({
